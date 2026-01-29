@@ -1,0 +1,1 @@
+Python code of a novel algorithm to solve the Kantorovich Mass Transport Problem via Wavelet Theory and Multiresolution Analysis. In the python file, it has been set the wavelet Coiflet1, it can be changed whitout any problem. 
